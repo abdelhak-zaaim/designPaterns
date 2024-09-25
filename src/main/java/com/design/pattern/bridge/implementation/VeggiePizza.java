@@ -1,4 +1,4 @@
-package com.design.pattern.bridge;
+package com.design.pattern.bridge.implementation;
 
 public class VeggiePizza extends Pizza {
 
