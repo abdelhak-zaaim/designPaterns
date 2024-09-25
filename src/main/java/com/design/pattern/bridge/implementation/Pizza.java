@@ -7,4 +7,10 @@ public abstract class Pizza {
 
    public abstract  void assemble();
    public abstract  void qualityCheck();
+
+   public abstract void setToppings(String everything);
+
+   public abstract void setSauce(String oil);
+
+   public abstract void setCrust(String thick);
 }
